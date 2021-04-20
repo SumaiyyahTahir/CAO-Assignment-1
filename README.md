@@ -1,6 +1,6 @@
 # CAO Assignment
 
-This repository has the code for Assignment 1, making our own 64 bit OS using the provided videos.
+This repository has the code for Assignment 1, making our own 64 bit OS using the [provided videos](https://www.youtube.com/watch?v=FkrpUaGThTQ).
 
 ## Tools
 
@@ -35,4 +35,5 @@ QEMU can be used to emulate the OS. First, QEMU has to be added as an environmen
 qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso -L "C:\Program Files\qemu"
 ```
 ## C code
-We need gcc and g++ compiler to run C and C++ code in VS Code.
+We need gcc and g++ compiler to run C and C++ code in VS Code. [Here is the link on how to install these](https://www.youtube.com/watch?v=Ubfgi4NoTPk)
+## Output
