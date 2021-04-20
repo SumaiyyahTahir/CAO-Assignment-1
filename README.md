@@ -1,4 +1,3 @@
-![outputcao](https://user-images.githubusercontent.com/66936019/115412817-1e81d880-a20e-11eb-9c04-32e6e40ff68e.PNG)
 # CAO Assignment
 
 This repository has the code for Assignment 1, making our own 64 bit OS using the [provided videos](https://www.youtube.com/watch?v=FkrpUaGThTQ).
@@ -38,3 +37,4 @@ qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso -L "C:\Program Files\qemu"
 ## C code
 We need gcc and g++ compiler to run C and C++ code in VS Code. [Here is the link on how to install these](https://www.youtube.com/watch?v=Ubfgi4NoTPk)
 ## Output
+![outputcao](https://user-images.githubusercontent.com/66936019/115412817-1e81d880-a20e-11eb-9c04-32e6e40ff68e.PNG)
